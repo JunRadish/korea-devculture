@@ -25,3 +25,5 @@
 | 리디 | 114 | 145 | https://github.com/ridi |
 
 <!-- MARKDOWN_TABLE(GITHUB): END -->
+
+[![update-companies](https://github.com/JunRadish/korea-devculture/actions/workflows/update.yaml/badge.svg?branch=main)](https://github.com/JunRadish/korea-devculture/actions/workflows/update.yaml)
