@@ -628,5 +628,15 @@
         "public_repos": 10
       }
     ]
+  },
+  {
+    "name": "Hopae Inc.",
+    "organizations": [
+      {
+        "followers": 12,
+        "organization_id": "hopae-official",
+        "public_repos": 10
+      }
+    ]
   }
 ]
