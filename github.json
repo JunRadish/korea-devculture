@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 1581,
+        "followers": 1580,
         "organization_id": "naver",
         "public_repos": 250
       }
@@ -73,7 +73,7 @@
     "name": "라인",
     "organizations": [
       {
-        "followers": 906,
+        "followers": 905,
         "organization_id": "line",
         "public_repos": 122
       }
@@ -173,7 +173,7 @@
     "name": "네이버클라우드",
     "organizations": [
       {
-        "followers": 67,
+        "followers": 68,
         "organization_id": "NaverCloudPlatform",
         "public_repos": 48
       }
@@ -633,9 +633,9 @@
     "name": "Hopae Inc.",
     "organizations": [
       {
-        "followers": 12,
+        "followers": 4,
         "organization_id": "hopae-official",
-        "public_repos": 10
+        "public_repos": 16
       }
     ]
   }
