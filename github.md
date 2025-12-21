@@ -6,21 +6,21 @@
 | **회사명** | **레포지터리 수** | **팔로워 수** | **Github 주소** |
 |:---|---:|---:|:---|
 | 티맥스클라우드 | 271 | 57 | https://github.com/tmax-cloud |
-| 네이버 | 272 | 2455 | https://github.com/naver |
+| 네이버 | 272 | 2454 | https://github.com/naver |
 | 인베슘 | 199 | 70 | https://github.com/hamonikr |
-| 삼성전자 | 182 | 1406 | https://github.com/Samsung |
+| 삼성전자 | 182 | 1407 | https://github.com/Samsung |
 | 센드버드 | 197 | 347 | https://github.com/sendbird |
 | 데브시스터즈 | 178 | 255 | https://github.com/devsisters |
 | 리디 | 114 | 167 | https://github.com/ridi |
 | 라인 | 160 | 1338 | https://github.com/line |
 | 당근마켓 | 122 | 1186 | https://github.com/daangn |
 | NHN | 107 | 770 | https://github.com/nhn |
-| 래블업 | 133 | 127 | https://github.com/lablup |
+| 래블업 | 133 | 128 | https://github.com/lablup |
 | 하이퍼커넥트 | 41 | 53 | https://github.com/hyperconnect |
 | 삼성SDS | 95 | 34 | https://github.com/samsung-cnct (81)<br />https://github.com/SDSACT (7)<br />https://github.com/samsungsds-rnd (7) |
 | 뤼이드 | 48 | 60 | https://github.com/riiid |
 | 버즈빌 | 51 | 20 | https://github.com/Buzzvil |
-| 카카오 | 68 | 598 | https://github.com/kakao |
+| 카카오 | 68 | 597 | https://github.com/kakao |
 | 네이버클라우드 | 56 | 128 | https://github.com/NaverCloudPlatform |
 | 카카오브레인 | 40 | 505 | https://github.com/kakaobrain |
 | 그린랩스 | 46 | 74 | https://github.com/green-labs |
@@ -60,7 +60,7 @@
 | 카카오페이 | 1 | 17 | https://github.com/kakaopay |
 | 신한은행 | 1 | 9 | https://github.com/Shinhan-Bank |
 | 크레프톤 | 0 | 5 | https://github.com/Krafton |
-| 카카오뱅크 | 2 | 62 | https://github.com/kakaobank |
+| 카카오뱅크 | 2 | 63 | https://github.com/kakaobank |
 | 카카오헤어샵 | 12 | 7 | https://github.com/kakaohairshop |
 | 플라네타리움 | 197 | 214 | https://github.com/planetarium |
 | 큐브리드 | 45 | 33 | https://github.com/CUBRID |
