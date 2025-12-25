@@ -15,7 +15,7 @@
 |:---|---:|---:|:---|
 | 네이버 | 272 | 2459 | https://github.com/naver |
 | 티맥스클라우드 | 271 | 57 | https://github.com/tmax-cloud |
-| 인베슘 | 199 | 70 | https://github.com/hamonikr |
+| 인베슘 | 199 | 69 | https://github.com/hamonikr |
 | 센드버드 | 197 | 347 | https://github.com/sendbird |
 | 플라네타리움 | 197 | 214 | https://github.com/planetarium |
 | 삼성전자 | 182 | 1411 | https://github.com/Samsung |
