@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 2540,
+        "followers": 2542,
         "organization_id": "naver",
         "public_repos": 275
       }
@@ -75,7 +75,7 @@
       {
         "followers": 1395,
         "organization_id": "line",
-        "public_repos": 161
+        "public_repos": 162
       }
     ]
   },
@@ -275,7 +275,7 @@
       {
         "followers": 49,
         "organization_id": "myrealtrip",
-        "public_repos": 7
+        "public_repos": 5
       }
     ]
   },
@@ -283,7 +283,7 @@
     "name": "쿠팡",
     "organizations": [
       {
-        "followers": 90,
+        "followers": 89,
         "organization_id": "coupang",
         "public_repos": 18
       }
@@ -353,7 +353,7 @@
     "name": "카카오엔터프라이즈",
     "organizations": [
       {
-        "followers": 88,
+        "followers": 89,
         "organization_id": "kakaoenterprise",
         "public_repos": 20
       }
@@ -458,7 +458,7 @@
     "name": "요기요",
     "organizations": [
       {
-        "followers": 109,
+        "followers": 110,
         "organization_id": "yogiyo",
         "public_repos": 39
       }
@@ -478,7 +478,7 @@
     "name": "힐링페이퍼",
     "organizations": [
       {
-        "followers": 25,
+        "followers": 26,
         "organization_id": "healingpaper",
         "public_repos": 3
       }
@@ -595,7 +595,7 @@
       {
         "followers": 217,
         "organization_id": "planetarium",
-        "public_repos": 206
+        "public_repos": 207
       }
     ]
   },
