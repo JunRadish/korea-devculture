@@ -6,13 +6,13 @@
 | **회사명** | **레포지터리 수** | **팔로워 수** | **Github 주소** |
 |:---|---:|---:|:---|
 | 티맥스클라우드 | 271 | 58 | https://github.com/tmax-cloud |
-| 네이버 | 277 | 2572 | https://github.com/naver |
+| 네이버 | 277 | 2580 | https://github.com/naver |
 | 인베슘 | 202 | 77 | https://github.com/hamonikr |
-| 삼성전자 | 181 | 1542 | https://github.com/Samsung |
+| 삼성전자 | 181 | 1543 | https://github.com/Samsung |
 | 센드버드 | 202 | 367 | https://github.com/sendbird |
 | 데브시스터즈 | 184 | 275 | https://github.com/devsisters |
 | 리디 | 115 | 174 | https://github.com/ridi |
-| 라인 | 162 | 1420 | https://github.com/line |
+| 라인 | 162 | 1422 | https://github.com/line |
 | 당근마켓 | 127 | 1220 | https://github.com/daangn |
 | NHN | 107 | 780 | https://github.com/nhn |
 | 래블업 | 144 | 148 | https://github.com/lablup |
@@ -20,7 +20,7 @@
 | 삼성SDS | 95 | 38 | https://github.com/samsung-cnct (81)<br />https://github.com/SDSACT (7)<br />https://github.com/samsungsds-rnd (7) |
 | 뤼이드 | 48 | 65 | https://github.com/riiid |
 | 버즈빌 | 51 | 22 | https://github.com/Buzzvil |
-| 카카오 | 71 | 625 | https://github.com/kakao |
+| 카카오 | 71 | 626 | https://github.com/kakao |
 | 네이버클라우드 | 56 | 133 | https://github.com/NaverCloudPlatform |
 | 카카오브레인 | 40 | 512 | https://github.com/kakaobrain |
 | 그린랩스 | 44 | 74 | https://github.com/green-labs |
@@ -44,10 +44,10 @@
 | 몰로코 | 18 | 147 | https://github.com/moloco |
 | 네이버제트 | 10 | 57 | https://github.com/naverz |
 | SK텔레콤 | 6 | 37 | https://github.com/sktelecom |
-| 컬리 | 4 | 118 | https://github.com/thefarmersfront |
+| 컬리 | 4 | 119 | https://github.com/thefarmersfront |
 | 티몬 | 8 | 1 | https://github.com/tmoncorp |
 | 메가존클라우드 | 8 | 3 | https://github.com/megazone-devops |
-| 현대자동차 | 13 | 178 | https://github.com/hkmc-airlab (6)<br />https://github.com/42dot (7) |
+| 현대자동차 | 13 | 179 | https://github.com/hkmc-airlab (6)<br />https://github.com/42dot (7) |
 | 포스코ICT | 9 | 8 | https://github.com/poscoict-glueframework |
 | 요기요 | 39 | 110 | https://github.com/yogiyo |
 | 가비아 | 10 | 17 | https://github.com/gabia |
@@ -65,7 +65,7 @@
 | 플라네타리움 | 211 | 218 | https://github.com/planetarium |
 | 큐브리드 | 47 | 36 | https://github.com/CUBRID |
 | 코클 | 14 | 23 | https://github.com/cochlearai |
-| 스켈터랩스 | 11 | 12 | https://github.com/SkelterLabsInc |
+| 스켈터랩스 | 11 | 13 | https://github.com/SkelterLabsInc |
 | Hopae Inc. | 27 | 18 | https://github.com/hopae-official |
 
 <!-- MARKDOWN_TABLE(GITHUB): END -->
