@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 2604,
+        "followers": 2607,
         "organization_id": "naver",
         "public_repos": 278
       }
@@ -33,7 +33,7 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 1561,
+        "followers": 1563,
         "organization_id": "Samsung",
         "public_repos": 182
       }
@@ -53,7 +53,7 @@
     "name": "데브시스터즈",
     "organizations": [
       {
-        "followers": 276,
+        "followers": 277,
         "organization_id": "devsisters",
         "public_repos": 184
       }
@@ -73,7 +73,7 @@
     "name": "라인",
     "organizations": [
       {
-        "followers": 1431,
+        "followers": 1433,
         "organization_id": "line",
         "public_repos": 162
       }
@@ -93,7 +93,7 @@
     "name": "NHN",
     "organizations": [
       {
-        "followers": 783,
+        "followers": 784,
         "organization_id": "nhn",
         "public_repos": 107
       }
@@ -103,7 +103,7 @@
     "name": "래블업",
     "organizations": [
       {
-        "followers": 155,
+        "followers": 156,
         "organization_id": "lablup",
         "public_repos": 145
       }
@@ -163,7 +163,7 @@
     "name": "카카오",
     "organizations": [
       {
-        "followers": 629,
+        "followers": 630,
         "organization_id": "kakao",
         "public_repos": 71
       }
@@ -253,7 +253,7 @@
     "name": "버켓플레이스",
     "organizations": [
       {
-        "followers": 107,
+        "followers": 108,
         "organization_id": "bucketplace",
         "public_repos": 11
       }
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 1897,
+        "followers": 1898,
         "organization_id": "toss",
         "public_repos": 45
       }
@@ -283,7 +283,7 @@
     "name": "쿠팡",
     "organizations": [
       {
-        "followers": 93,
+        "followers": 94,
         "organization_id": "coupang",
         "public_repos": 18
       }
@@ -343,7 +343,7 @@
     "name": "뱅크샐러드",
     "organizations": [
       {
-        "followers": 107,
+        "followers": 108,
         "organization_id": "banksalad",
         "public_repos": 19
       }
@@ -508,7 +508,7 @@
     "name": "네이버랩스",
     "organizations": [
       {
-        "followers": 37,
+        "followers": 38,
         "organization_id": "naverlabs",
         "public_repos": 4
       }
@@ -543,7 +543,7 @@
     "name": "카카오페이",
     "organizations": [
       {
-        "followers": 16,
+        "followers": 17,
         "organization_id": "kakaopay",
         "public_repos": 1
       }
