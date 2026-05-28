@@ -3,7 +3,7 @@
     "name": "티맥스클라우드",
     "organizations": [
       {
-        "followers": 58,
+        "followers": 57,
         "organization_id": "tmax-cloud",
         "public_repos": 271
       }
@@ -33,7 +33,7 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 1565,
+        "followers": 1566,
         "organization_id": "Samsung",
         "public_repos": 182
       }
@@ -155,7 +155,7 @@
       {
         "followers": 23,
         "organization_id": "Buzzvil",
-        "public_repos": 52
+        "public_repos": 51
       }
     ]
   },
@@ -183,7 +183,7 @@
     "name": "카카오브레인",
     "organizations": [
       {
-        "followers": 511,
+        "followers": 512,
         "organization_id": "kakaobrain",
         "public_repos": 40
       }
@@ -223,7 +223,7 @@
     "name": "쏘카",
     "organizations": [
       {
-        "followers": 101,
+        "followers": 102,
         "organization_id": "socar-inc",
         "public_repos": 30
       }
@@ -595,7 +595,7 @@
       {
         "followers": 219,
         "organization_id": "planetarium",
-        "public_repos": 213
+        "public_repos": 214
       }
     ]
   },
@@ -633,7 +633,7 @@
     "name": "Hopae Inc.",
     "organizations": [
       {
-        "followers": 18,
+        "followers": 19,
         "organization_id": "hopae-official",
         "public_repos": 27
       }
