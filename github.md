@@ -8,18 +8,18 @@
 | 티맥스클라우드 | 271 | 57 | https://github.com/tmax-cloud |
 | 네이버 | 279 | 2629 | https://github.com/naver |
 | 인베슘 | 203 | 77 | https://github.com/hamonikr |
-| 삼성전자 | 182 | 1584 | https://github.com/Samsung |
-| 센드버드 | 204 | 372 | https://github.com/sendbird |
+| 삼성전자 | 182 | 1585 | https://github.com/Samsung |
+| 센드버드 | 204 | 374 | https://github.com/sendbird |
 | 데브시스터즈 | 185 | 277 | https://github.com/devsisters |
 | 리디 | 114 | 175 | https://github.com/ridi |
 | 라인 | 162 | 1443 | https://github.com/line |
-| 당근마켓 | 127 | 1232 | https://github.com/daangn |
+| 당근마켓 | 127 | 1233 | https://github.com/daangn |
 | NHN | 107 | 787 | https://github.com/nhn |
 | 래블업 | 146 | 162 | https://github.com/lablup |
 | 하이퍼커넥트 | 33 | 60 | https://github.com/hyperconnect |
 | 삼성SDS | 95 | 38 | https://github.com/samsung-cnct (81)<br />https://github.com/SDSACT (7)<br />https://github.com/samsungsds-rnd (7) |
 | 뤼이드 | 49 | 65 | https://github.com/riiid |
-| 버즈빌 | 35 | 23 | https://github.com/Buzzvil |
+| 버즈빌 | 34 | 23 | https://github.com/Buzzvil |
 | 카카오 | 71 | 636 | https://github.com/kakao |
 | 네이버클라우드 | 57 | 135 | https://github.com/NaverCloudPlatform |
 | 카카오브레인 | 40 | 511 | https://github.com/kakaobrain |
@@ -41,7 +41,7 @@
 | 뱅크샐러드 | 19 | 108 | https://github.com/banksalad |
 | 카카오엔터프라이즈 | 21 | 90 | https://github.com/kakaoenterprise |
 | 딜리셔스 | 10 | 25 | https://github.com/dealicious-inc |
-| 몰로코 | 17 | 149 | https://github.com/moloco |
+| 몰로코 | 17 | 151 | https://github.com/moloco |
 | 네이버제트 | 10 | 57 | https://github.com/naverz |
 | SK텔레콤 | 6 | 41 | https://github.com/sktelecom |
 | 컬리 | 4 | 122 | https://github.com/thefarmersfront |
@@ -50,7 +50,7 @@
 | 현대자동차 | 14 | 181 | https://github.com/hkmc-airlab (7)<br />https://github.com/42dot (7) |
 | 포스코ICT | 9 | 8 | https://github.com/poscoict-glueframework |
 | 요기요 | 39 | 111 | https://github.com/yogiyo |
-| 가비아 | 12 | 17 | https://github.com/gabia |
+| 가비아 | 13 | 17 | https://github.com/gabia |
 | 힐링페이퍼 | 3 | 31 | https://github.com/healingpaper |
 | 11번가 | 10 | 21 | https://github.com/11st-corp |
 | 줌인터넷 | 4 | 8 | https://github.com/zuminternet |
