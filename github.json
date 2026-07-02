@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 2642,
+        "followers": 2643,
         "organization_id": "naver",
         "public_repos": 280
       }
@@ -33,7 +33,7 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 1597,
+        "followers": 1598,
         "organization_id": "Samsung",
         "public_repos": 184
       }
@@ -155,7 +155,7 @@
       {
         "followers": 25,
         "organization_id": "Buzzvil",
-        "public_repos": 34
+        "public_repos": 35
       }
     ]
   },
@@ -183,7 +183,7 @@
     "name": "카카오브레인",
     "organizations": [
       {
-        "followers": 511,
+        "followers": 510,
         "organization_id": "kakaobrain",
         "public_repos": 40
       }
@@ -223,7 +223,7 @@
     "name": "쏘카",
     "organizations": [
       {
-        "followers": 102,
+        "followers": 103,
         "organization_id": "socar-inc",
         "public_repos": 30
       }
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 1921,
+        "followers": 1923,
         "organization_id": "toss",
         "public_repos": 46
       }
@@ -275,7 +275,7 @@
       {
         "followers": 60,
         "organization_id": "myrealtrip",
-        "public_repos": 6
+        "public_repos": 7
       }
     ]
   },
@@ -283,7 +283,7 @@
     "name": "쿠팡",
     "organizations": [
       {
-        "followers": 95,
+        "followers": 96,
         "organization_id": "coupang",
         "public_repos": 18
       }
@@ -293,7 +293,7 @@
     "name": "LG전자",
     "organizations": [
       {
-        "followers": 121,
+        "followers": 122,
         "organization_id": "LGE-OSS",
         "public_repos": 21
       }
@@ -433,7 +433,7 @@
     "name": "현대자동차",
     "organizations": [
       {
-        "followers": 57,
+        "followers": 58,
         "organization_id": "hkmc-airlab",
         "public_repos": 7
       },
@@ -468,7 +468,7 @@
     "name": "가비아",
     "organizations": [
       {
-        "followers": 17,
+        "followers": 18,
         "organization_id": "gabia",
         "public_repos": 17
       }
