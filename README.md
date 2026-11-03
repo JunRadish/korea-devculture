@@ -21,7 +21,7 @@
 | 삼성전자 | 189 | 1721 | https://github.com/Samsung |
 | 데브시스터즈 | 186 | 281 | https://github.com/devsisters |
 | 라인 | 164 | 1514 | https://github.com/line |
-| 래블업 | 152 | 187 | https://github.com/lablup |
+| 래블업 | 152 | 188 | https://github.com/lablup |
 | 당근마켓 | 120 | 1260 | https://github.com/daangn |
 
 <!-- MARKDOWN_TABLE(GITHUB): END -->
